@@ -31,7 +31,7 @@ I don’t consider myself an expert in any one language or framework, but I’ll
 
 You can count on me to help with prioritization and minimizing scope to avoid over-engineering.
 
-I prefer direct, clear feedback — no ambiguity. You don’t need to sugarcoat.
+I prefer direct, clear feedback without ambiguity. You don’t need to sugarcoat.
 
 ## 💡 Values
 
